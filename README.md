@@ -2,7 +2,7 @@
 Sistema de cadastro e login de usuários. Api em NodeJS.
 
 ## Sobre o Projeto
-Para fazer a aplicação subi um container no Docker para o MongoDB. Utilizei o bcrypt para a senha e o JWT para o token.
+Para fazer a aplicação subi um container no Docker para o MongoDB. Utilizei o bcrypt para criptografar a senha e o JWT para o token. Para maior segurança eu utilizei o formado de id GUID(UUID) e para isso eu utilizei a lib node-uuid.
 Para rodar a aplicação usei o Nodemon. Como validador dos dados de entrada utilizei o Yup. 
 
 ## Rodando a aplicação
