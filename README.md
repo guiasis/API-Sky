@@ -1,22 +1,27 @@
 # API Sky
 Sistema de cadastro e login de usuários. Api em NodeJS.
 
+## Sobre o Projeto
+Para fazer a aplicação subi um container no Docker para o MongoDB. Utilizei o bcrypt para a senha e o JWT para o token.
+Para rodar a aplicação usei o Nodemon. Como validador dos dados de entrada utilizei o Yup. 
+
 ## Rodando a aplicação
 Para rodar o projeto será necessário instalar as seguintes aplicações:
 
 - MongoDB
 - Node
-- Yarn (Opcional)
+- NPM ou Yarn (Opcional)
 
 ### Pré-requisitos
 Instalando as dependências.
 
 ```bash
-yarn install
+npm ou yarn install
 ```
 
 ## Algumas ferramentas utilizadas
 
+- docker
 - bcryptjs
 - jwt
 - express
