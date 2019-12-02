@@ -29,6 +29,4 @@ yarn install
 # Autor
 
 [Guilherme Assis](https://github.com/guiasis) 
-# api-sky
-# api-sky
-# api-sky
+
