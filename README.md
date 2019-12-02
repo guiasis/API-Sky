@@ -23,7 +23,6 @@ yarn install
 - date-fns
 - mongoose
 - mongoDB
-- postgres
 - yup
 
 # Autor
