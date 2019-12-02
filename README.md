@@ -16,7 +16,7 @@ Para rodar o projeto será necessário instalar as seguintes aplicações:
 Instalando as dependências.
 
 ```bash
-npm ou yarn install
+npm install
 ```
 
 ## Algumas ferramentas utilizadas
